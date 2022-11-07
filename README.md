@@ -4,6 +4,7 @@ Talking Avatar: create video from plain text or audio file in minutes, support u
 Create your custom AI avatar for free.
 https://en.bomou.com/avatars/
 
+虚拟主播制作中文版 https://bomou.com/cn/va/
 
 # Text to Video API:
 
