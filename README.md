@@ -1,7 +1,7 @@
 # Talking Avatar
 Talking Avatar: create video from plain text or audio file in minutes, support up to 100+ languages and 350+ voice models.
 
-Create your custom AI avatar for free.
+Create your custom Talking Avatar for free.
 https://en.bomou.com/avatars/
 
 虚拟主播制作中文版 https://bomou.com/cn/va/
